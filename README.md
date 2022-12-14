@@ -1,5 +1,5 @@
 -->
-# Olá, meu nome é Vinícius Sandes, sou estudante de programação e tecnologia, gosto muito dessa area e pretendo trabalhar com isso algum dia.
+# Olá, meu nome é Vinícius, sou estudante de programação e tecnologia, gosto muito dessa area e pretendo trabalhar com isso algum dia.
 <div align="center">
   <a href="https://github.com/viniciussandes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciussandes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
